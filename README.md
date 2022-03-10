@@ -1,2 +1,1 @@
-# Line-Comparison-Computation-program
-Line Comparison programs
+# Welcome to Line Comparison Computation Programs
